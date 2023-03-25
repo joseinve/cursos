@@ -1,0 +1,14 @@
+header {
+    background-color: gray;
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+main {
+    width: 780px;
+    height: 400px;
+    background-color: chocolate;
+}
