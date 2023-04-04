@@ -1,9 +1,9 @@
-package main
+package holamundo
 
 import (
 	d "fmt"
 )
 
-func main() {
+func HolaMundo() {
 	d.Print("hola mundo")
 }
